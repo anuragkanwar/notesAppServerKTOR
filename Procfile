@@ -1,0 +1,1 @@
+web: build/install/notes_sample_server/bin/notes_sample_server
